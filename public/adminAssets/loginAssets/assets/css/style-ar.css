@@ -1,0 +1,39 @@
+
+body ,
+html {
+    direction: rtl;
+}
+
+.signin-form form .form-group svg {
+
+left: unset !important;
+right:15px!important;
+}
+
+.btn-web{
+text-align: left;
+}
+.show-pass {
+position: absolute;
+right: unset !important;
+left: 10px !important;
+
+}
+
+.dropdown-content {
+
+right: unset !important ;
+left: 0 !important;
+}
+
+.checkbox-lable {
+
+padding-left: unset !important;
+padding-right: 35px;
+
+}
+
+.checkbox-mark {
+left: unset !important;
+right: 0;
+}
